@@ -1,3 +1,31 @@
 #Block list by jaytoven
 
 0.0.0.0 baddiehub.com
+0.0.0.0 x.com
+0.0.0.0 twitter.com
+0.0.0.0 reddit.com
+0.0.0.0 xhabesha.com
+0.0.0.0 disboard.org
+0.0.0.0 discadia.com
+0.0.0.0 discodus.com
+0.0.0.0 fansly.com
+0.0.0.0 onlyfans.com
+0.0.0.0 eros.com
+0.0.0.0 theporndude.com
+0.0.0.0 baddiesonly.tv
+0.0.0.0 latinasonlytv.com
+0.0.0.0 telegram.im
+0.0.0.0 tgstat.com
+0.0.0.0 tiktok.com
+0.0.0.0 justforfun.com
+0.0.0.0 manyvids.com
+0.0.0.0 loyalfans.com
+0.0.0.0 fancentro.com
+0.0.0.0 passes.com
+0.0.0.0 patreon.com
+0.0.0.0 justforfans.com
+0.0.0.0 subscribestar.com
+0.0.0.0 unlockd.com
+0.0.0.0 fanvue.com
+0.0.0.0 my.club
+
