@@ -1,7 +1,8 @@
 #Block list by jaytoven
 
 0.0.0.0 baddiehub.com
-
+0.0.0.0 x.com
+0.0.0.0 twitter.com
 0.0.0.0 reddit.com
 0.0.0.0 xhabesha.com
 0.0.0.0 disboard.org
