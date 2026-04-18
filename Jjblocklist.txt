@@ -29,5 +29,9 @@
 0.0.0.0 fanvue.com
 0.0.0.0 my.club
 0.0.0.0 www.reddit.com
+0.0.0.0 www.fapello.com
+0.0.0.0 www.thothub.com
+0.0.0.0 www.erome.com
+
 
 
