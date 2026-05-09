@@ -61,6 +61,7 @@
 0.0.0.0 abaddiehub.com
 0.0.0.0 baddiehub.pro
 0.0.0.0 baddiehuboffically.uk
+0.0.0.0 supercell.com
 
 
 
