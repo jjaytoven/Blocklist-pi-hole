@@ -65,6 +65,8 @@
 0.0.0.0 fanvue.com
 0.0.0.0 sextpanther.com
 0.0.0.0 rgcam.com
+0.0.0.0 pi.hole
+0.0.0.0 github.coom
 
 
 
