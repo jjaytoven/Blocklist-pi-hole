@@ -72,8 +72,7 @@
 0.0.0.0 store.supercell.com
 0.0.0.0 store.epicgames.com
 0.0.0.0 thootiehub.com
-0.0.0.0 pi.hole
-0.0.0.0 github.com
+
 
 
 
